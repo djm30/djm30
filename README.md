@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @djm30
-- 👀 I’m interested in frontend development, ai and machine learning
-- 🌱 I’m currently learning python, HTML, js, CSS
+- 👀 I’m interested in fullstack development
+- 🌱 I’m currently learning ASP.NET Core, HTML, JS, CSS, React and Rust
 - 💞️ I’m looking to collaborate on nothing
 
 <!---
